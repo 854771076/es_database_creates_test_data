@@ -1,0 +1,28 @@
+[
+    {
+        "firmName": "示例关键字4",
+        "firmNameMd5": "示例关键字",
+        "firmNameUsed": [
+            [
+                {
+                    "name": "示例文本",
+                    "name_1": "示例文本"
+                }
+            ]
+        ],
+        "firmNameUsedMd5": [
+            [
+                {
+                    "name": "示例关键字",
+                    "name_1": "示例关键字"
+                }
+            ]
+        ],
+        "legalRep": "示例关键字",
+        "regCapLong_format": 0.0,
+        "regNo": "示例关键字",
+        "score": 0,
+        "syxId": "示例关键字",
+        "uscCode": "示例关键字"
+    }
+]
